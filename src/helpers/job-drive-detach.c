@@ -30,6 +30,7 @@
 #include <libudev.h>
 
 #include <glib.h>
+#include <sys/stat.h>
 
 static void
 usage (void)
