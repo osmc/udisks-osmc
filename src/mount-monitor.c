@@ -30,6 +30,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <mntent.h>
+#include <sys/sysmacros.h>
 
 #include <glib.h>
 #include <glib/gi18n-lib.h>

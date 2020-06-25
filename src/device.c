@@ -41,6 +41,7 @@
 #include <sys/ioctl.h>
 #include <linux/cdrom.h>
 #include <linux/loop.h>
+#include <sys/sysmacros.h>
 
 #include <glib.h>
 #include <glib/gstdio.h>

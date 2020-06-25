@@ -48,6 +48,7 @@
 #include <net/if_arp.h>
 #include <fcntl.h>
 #include <signal.h>
+#include <sys/sysmacros.h>
 
 #include <glib.h>
 #include <glib/gi18n-lib.h>

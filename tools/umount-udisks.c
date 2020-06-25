@@ -33,6 +33,7 @@
 #include <fcntl.h>
 #include <pwd.h>
 #include <grp.h>
+#include <sys/sysmacros.h>
 
 #include <glib.h>
 #include <glib/gi18n-lib.h>
